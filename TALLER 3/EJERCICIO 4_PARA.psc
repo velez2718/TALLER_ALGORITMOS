@@ -1,0 +1,10 @@
+Algoritmo Ejercicio4_Para
+	Escribir "Digite el valor de N:"
+	Leer N
+	
+	Para i <- 1 Hasta N Hacer
+		Si i MOD 2 = 0 Entonces
+			Escribir i
+		FinSi
+	FinPara
+FinAlgoritmo

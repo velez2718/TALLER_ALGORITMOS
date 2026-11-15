@@ -1,0 +1,13 @@
+Algoritmo Ejercicio4_Mientras
+	Escribir "Digite el valor de N:"
+	Leer N
+	
+	i <- 1
+	
+	Mientras i <= N Hacer
+		Si i MOD 2 = 0 Entonces
+			Escribir i
+		FinSi
+		i <- i + 1
+	FinMientras
+FinAlgoritmo
